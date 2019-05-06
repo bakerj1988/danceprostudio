@@ -324,7 +324,7 @@ hr {
 }
 
 ul.menuitems li:hover {
-	background-color: #555;
+	background-color: #008080;
 }
 
 div.centered {
@@ -416,7 +416,7 @@ header div.cover {
 	top: 0px;
 	width: 200px;
 	height: 200px;
-	background-color: #222326;
+	background-color: #000;
 	background-size: cover;
 	overflow: hidden;
 }
@@ -515,7 +515,7 @@ table tr th {
 	text-align: left;
 	font-weight: 300;
 	font-size: 9pt;
-	color: orangered;
+	color: #008080;
 	padding: 4px 10px 4px 0;
 }
 
