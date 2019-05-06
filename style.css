@@ -485,7 +485,7 @@ table tr {
 }
 
 table tr:hover {
-	background-color: orangered;
+	background-color: #008080;
 }
 
 table tr.playing {
@@ -583,7 +583,7 @@ responsive-cover.responsive-cover-playlist {
 }
 
 .context-menu .item:hover {
-	background-color: orangered;
+	background-color: o#008080;
 	cursor: default;
 }
 
