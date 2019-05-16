@@ -7,7 +7,7 @@
 		var CLIENT_ID = '';
 		var REDIRECT_URI = '';
 			CLIENT_ID = 'cf291691c79a443b9616a01a3c5e0085';
-			REDIRECT_URI = 'https://danceprostudio.com/callback/';
+			REDIRECT_URI = 'https://danceprostudio.com/#/';
 		
 
 		function getLoginURL(scopes) {
